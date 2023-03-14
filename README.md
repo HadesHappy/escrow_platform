@@ -1,0 +1,1 @@
+This is the base of the hardhat development.
